@@ -1,8 +1,8 @@
-# National Domestic EDA Software Training | 2025 Registration Open
+# EDA² "Xixin Academy" 3rd Session Multi-Platform Full-Process EDA Software Training | 2025 Registration Open
 
 🚀 **5-Day Intensive Training · Full-Process Hands-on · Up to 3000 RMB Scholarship**
 
-Jointly hosted by EDA Open Innovation Cooperation Mechanism (EDA²), Fudan University School of Integrated Circuits and Micro-nano Electronics, and National Key Laboratory of Integrated Chips and Systems at Fudan University, dedicated to cultivating EDA field professionals.
+Guided by EDA Open Innovation Cooperation Mechanism (EDA²), and jointly organized by Fudan University School of Integrated Circuits and Micro-nano Electronics and National Key Laboratory of Integrated Chips and Systems at Fudan University, dedicated to cultivating EDA field professionals.
 
 ## 📋 Key Information Overview
 
@@ -16,13 +16,15 @@ Jointly hosted by EDA Open Innovation Cooperation Mechanism (EDA²), Fudan Unive
 ## 🏛️ Organizers
 
 **Fudan University School of Integrated Circuits and Micro-nano Electronics**
-The School is dedicated to cultivating professionals in the field of integrated circuits and microelectronics, promoting deep integration of industry, academia, and research.
+The School of Integrated Circuits and Micro-nano Electronics traces its origins to the semiconductor physics program established by Academician Xie Xide at Fudan University in 1958. It serves as a flagship force for the university's proactive response to national strategic needs and vigorous promotion of new engineering construction. As the national team for talent cultivation and research breakthrough in the field of integrated circuits, the school takes cultivating talents with disruptive innovation capabilities and industry transformation abilities as its fundamental mission. It concentrates Fudan University's most advantageous teaching and research faculty, leveraging the unique resource advantage among national universities of gathering national-level key research platforms and full industrial chain layout in integrated circuits to provide students with "interchange bridge" training program design and build a first-class talent cultivation highland.
 
 **National Key Laboratory of Integrated Chips and Systems at Fudan University**
-The National Key Laboratory of Integrated Chips and Systems at Fudan University is one of the 20 reorganized "benchmark" laboratories. In 2022, based on the former National Key Laboratory of Application Specific Integrated Circuit and System, it was approved by the Ministry of Science and Technology to be reorganized and established at Fudan University, with Academician Liu Ming as the laboratory director. The laboratory has established 5 innovation centers: Integrated Chips, EDA, IP/Architecture, Ultra-High-Speed Circuits and Systems, and Future Chips, dedicated to promoting the development of China's integrated circuit industry.
+The National Key Laboratory of Integrated Chips and Systems at Fudan University is one of the 20 reorganized "benchmark" laboratories. In 2022, based on the former National Key Laboratory of Application Specific Integrated Circuit and System, it was approved by the Ministry of Science and Technology to be reorganized and established at Fudan University. The laboratory has established 5 innovation centers: Integrated Chips, EDA, IP/Architecture, Ultra-High-Speed Circuits and Systems, and Future Chips, dedicated to promoting the development of China's integrated circuit industry.
+
+## 🌐 Guidance Organization
 
 **EDA Open Innovation Cooperation Mechanism (EDA²)**
-The EDA Open Innovation Cooperation Mechanism aims to promote the development and application of domestic EDA tools, building a collaborative innovation ecosystem for industry, academia, research, and application.
+The EDA Open Innovation Cooperation Mechanism (EDA Ecosystem Development Accelerator, abbreviated as EDA²) is a cooperation mechanism voluntarily composed of enterprises, universities, research institutes, and professional institutions engaged in integrated circuit electronic design automation research, design, verification, testing, application, services, and upstream and downstream industries. It is established under the common vision of achieving diversified supply of integrated circuit electronic design automation and building long-term competitiveness, focusing on promoting the development of the integrated circuit electronic design automation industry. EDA² is based on a global perspective, with the purpose of optimizing the industrial chain, serving the industry, promoting innovation, facilitating applications, and strengthening collaboration. Through integrating industrial resources such as technology and talent, it strives to build an advanced and comprehensive industry research, industry-academia-research connection, forward-looking research, standard development, testing and certification, open source development, and talent cultivation ecosystem development platform for integrated circuit electronic design automation, fully leveraging the advantages of all parties to achieve win-win progress.
 
 ## 🤝 Domestic EDA Software Supporting Companies
 
@@ -78,7 +80,7 @@ Complete frontend to backend design, evaluated based on PPA data, detailed rules
 - Industry frontline engineers providing on-site guidance
 
 ## 🎯 What You Will Gain
-✅ Master the complete workflow of domestic EDA tool chains  
+✅ Master the complete workflow of multi-platform EDA tool chains  
 ✅ Gain hands-on experience in analog and digital circuit design  
 ✅ Build professional networks in the EDA field  
 ✅ Opportunities for internship/employment recommendations

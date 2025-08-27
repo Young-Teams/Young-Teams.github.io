@@ -147,7 +147,7 @@ function updateStaticText(lang) {
         }
         
         // Update document title
-        document.title = '全国产全流程EDA软件培训 2025';
+        document.title = 'EDA²"习芯堂"第三期多元化全流程EDA软件培训 2025';
     } else {
         document.getElementById('event-date').textContent = 'August 31 - September 4, 2025 | Conference Hall B1006, Cross Building No.1, Jiangwan Campus, Fudan University';
         document.getElementById('event-tagline').textContent = '5-Day Intensive Training · Full-Process Hands-on · Up to 3000 RMB Scholarship';
@@ -167,6 +167,6 @@ function updateStaticText(lang) {
         }
         
         // Update document title
-        document.title = 'National Domestic EDA Software Training 2025';
+        document.title = 'EDA² "Xixin Academy" 3rd Session Multi-Platform Full-Process EDA Software Training 2025';
     }
 } 

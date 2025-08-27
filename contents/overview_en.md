@@ -1,6 +1,6 @@
 🚀 **5-Day Intensive Training · Full-Process Hands-on · Up to 3000 RMB Scholarship**
 
-Jointly hosted by EDA Open Innovation Cooperation Mechanism (EDA²), Fudan University School of Integrated Circuits and Micro-nano Electronics, and National Key Laboratory of Integrated Chips and Systems at Fudan University, dedicated to cultivating EDA field professionals.
+Guided by EDA Open Innovation Cooperation Mechanism (EDA²), and jointly organized by Fudan University School of Integrated Circuits and Micro-nano Electronics and National Key Laboratory of Integrated Chips and Systems at Fudan University, dedicated to cultivating EDA field professionals.
 
 ## 📋 Key Information Overview
 
@@ -27,7 +27,7 @@ The National Key Laboratory of Integrated Chips and Systems at Fudan University 
 - Industry frontline engineers providing guidance
 
 ## 🎯 What You Will Gain
-✅ Master the complete workflow of domestic EDA tool chains  
+✅ Master the complete workflow of multi-platform EDA tool chains  
 ✅ Gain hands-on experience in analog and digital circuit design  
 ✅ Build professional networks in the EDA field  
 ✅ Opportunities for internship/employment recommendations
