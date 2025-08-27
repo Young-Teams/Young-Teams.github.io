@@ -1,5 +1,3 @@
-## ❓ Frequently Asked Questions
-
 **Q: Do I need to bring my own computer?**  
 A: Yes, you need to bring your own computer. On-site teaching will cover how to use supporting EDA software and process libraries.
 

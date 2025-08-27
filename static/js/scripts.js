@@ -84,7 +84,7 @@ function toggleLanguage() {
 function loadAllContent(lang) {
     console.log('Loading all content for language:', lang);
     // Load all section content based on language
-    const sections = ['overview', 'schedule', 'registration', 'faq'];
+    const sections = ['overview', 'schedule', 'registration', 'faq', 'acknowledgments'];
     
     sections.forEach(section => {
         const filename = `${section}_${lang}.md`;
@@ -138,7 +138,7 @@ function updateStaticText(lang) {
         document.getElementById('acknowledgments-title').textContent = '鸣谢';
         
         // Update navigation
-        const navLinks = document.querySelectorAll('.nav-link');
+        const navLinks = document.querySelectorAll('a.nav-link');
         if (navLinks.length >= 6) {
             navLinks[0].textContent = '首页';
             navLinks[1].textContent = '概览';
@@ -160,7 +160,7 @@ function updateStaticText(lang) {
         document.getElementById('acknowledgments-title').textContent = 'ACKNOWLEDGMENTS';
         
         // Update navigation
-        const navLinks = document.querySelectorAll('.nav-link');
+        const navLinks = document.querySelectorAll('a.nav-link');
         if (navLinks.length >= 6) {
             navLinks[0].textContent = 'HOME';
             navLinks[1].textContent = 'OVERVIEW';

@@ -299,13 +299,15 @@
                 document.getElementById('acknowledgments-title').textContent = '鸣谢';
                 
                 // Update navigation
-                const navLinks = document.querySelectorAll('.nav-link');
-                navLinks[0].textContent = '首页';
-                navLinks[1].textContent = '概览';
-                navLinks[2].textContent = '日程';
-                navLinks[3].textContent = '报名';
-                navLinks[4].textContent = '常见问题';
-                navLinks[5].textContent = '鸣谢';
+                const navLinks = document.querySelectorAll('a.nav-link');
+                if (navLinks.length >= 6) {
+                    navLinks[0].textContent = '首页';
+                    navLinks[1].textContent = '概览';
+                    navLinks[2].textContent = '日程';
+                    navLinks[3].textContent = '报名';
+                    navLinks[4].textContent = '常见问题';
+                    navLinks[5].textContent = '鸣谢';
+                }
                 
                 // Update copyright and links
                 document.getElementById('copyright-text').textContent = '© 2025 复旦大学集成芯片与系统全国重点实验室';
@@ -321,13 +323,15 @@
                 document.getElementById('acknowledgments-title').textContent = 'ACKNOWLEDGMENTS';
                 
                 // Update navigation
-                const navLinks = document.querySelectorAll('.nav-link');
-                navLinks[0].textContent = 'HOME';
-                navLinks[1].textContent = 'OVERVIEW';
-                navLinks[2].textContent = 'SCHEDULE';
-                navLinks[3].textContent = 'REGISTRATION';
-                navLinks[4].textContent = 'FAQ';
-                navLinks[5].textContent = 'ACKNOWLEDGMENTS';
+                const navLinks = document.querySelectorAll('a.nav-link');
+                if (navLinks.length >= 6) {
+                    navLinks[0].textContent = 'HOME';
+                    navLinks[1].textContent = 'OVERVIEW';
+                    navLinks[2].textContent = 'SCHEDULE';
+                    navLinks[3].textContent = 'REGISTRATION';
+                    navLinks[4].textContent = 'FAQ';
+                    navLinks[5].textContent = 'ACKNOWLEDGMENTS';
+                }
                 
                 // Update copyright and links
                 document.getElementById('copyright-text').textContent = '© 2025 National Key Laboratory of Integrated Chips and Systems, Fudan University';
