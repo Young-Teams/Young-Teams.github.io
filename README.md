@@ -1,7 +1,6 @@
 
 # National Domestic EDA Software Training 2025
 
-![License](https://img.shields.io/github/license/Young-Teams/Young-Teams.github.io)
 ![Last Commit](https://img.shields.io/github/last-commit/Young-Teams/Young-Teams.github.io)
 
 > 🌐 **官方网站**: [https://young-teams.github.io](https://young-teams.github.io)
