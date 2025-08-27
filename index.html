@@ -147,6 +147,9 @@
                         <a class="nav-link me-lg-3" href="#faq">常见问题</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#acknowledgments">鸣谢</a>
+                    </li>
+                    <li class="nav-item">
                         <button id="lang-toggle" class="btn btn-outline-primary btn-sm ms-2" onclick="toggleLanguage()">
                             <i class="bi bi-translate"></i> EN
                         </button>
@@ -214,6 +217,17 @@
     </section>
     <!-- FAQ -->
 
+    <!-- Acknowledgments -->
+    <section class="bg-gradient-primary-to-secondary-light section-spacing" id="acknowledgments">
+        <div class="container px-5">
+            <header class="section-header">
+                <h2 id="acknowledgments-subtitle"><i class="bi bi-heart-fill"></i>&nbsp;<span id="acknowledgments-title">鸣谢</span></h2>
+            </header>
+            <div class="main-body content-spacing" id="acknowledgments-md"></div>
+        </div>
+    </section>
+    <!-- Acknowledgments -->
+
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
@@ -244,7 +258,7 @@
         
         function loadContent(lang) {
             // Load multiple markdown files based on language
-            const files = ['overview', 'schedule', 'registration', 'faq'];
+            const files = ['overview', 'schedule', 'registration', 'faq', 'acknowledgments'];
             
             files.forEach(file => {
                 const filename = `${file}_${lang}.md`;
@@ -282,6 +296,7 @@
                 document.getElementById('schedule-title').textContent = '日程安排';
                 document.getElementById('registration-title').textContent = '报名参与';
                 document.getElementById('faq-title').textContent = '常见问题';
+                document.getElementById('acknowledgments-title').textContent = '鸣谢';
                 
                 // Update navigation
                 const navLinks = document.querySelectorAll('.nav-link');
@@ -290,6 +305,7 @@
                 navLinks[2].textContent = '日程';
                 navLinks[3].textContent = '报名';
                 navLinks[4].textContent = '常见问题';
+                navLinks[5].textContent = '鸣谢';
                 
                 // Update copyright and links
                 document.getElementById('copyright-text').textContent = '© 2025 复旦大学集成芯片与系统全国重点实验室';
@@ -302,6 +318,7 @@
                 document.getElementById('schedule-title').textContent = 'SCHEDULE';
                 document.getElementById('registration-title').textContent = 'REGISTRATION';
                 document.getElementById('faq-title').textContent = 'FAQ';
+                document.getElementById('acknowledgments-title').textContent = 'ACKNOWLEDGMENTS';
                 
                 // Update navigation
                 const navLinks = document.querySelectorAll('.nav-link');
@@ -310,6 +327,7 @@
                 navLinks[2].textContent = 'SCHEDULE';
                 navLinks[3].textContent = 'REGISTRATION';
                 navLinks[4].textContent = 'FAQ';
+                navLinks[5].textContent = 'ACKNOWLEDGMENTS';
                 
                 // Update copyright and links
                 document.getElementById('copyright-text').textContent = '© 2025 National Key Laboratory of Integrated Chips and Systems, Fudan University';

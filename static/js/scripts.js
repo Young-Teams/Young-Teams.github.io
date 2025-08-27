@@ -135,15 +135,17 @@ function updateStaticText(lang) {
         document.getElementById('schedule-title').textContent = '日程安排';
         document.getElementById('registration-title').textContent = '报名参与';
         document.getElementById('faq-title').textContent = '常见问题';
+        document.getElementById('acknowledgments-title').textContent = '鸣谢';
         
         // Update navigation
         const navLinks = document.querySelectorAll('.nav-link');
-        if (navLinks.length >= 5) {
+        if (navLinks.length >= 6) {
             navLinks[0].textContent = '首页';
             navLinks[1].textContent = '概览';
             navLinks[2].textContent = '日程';
             navLinks[3].textContent = '报名';
             navLinks[4].textContent = '常见问题';
+            navLinks[5].textContent = '鸣谢';
         }
         
         // Update document title
@@ -155,15 +157,17 @@ function updateStaticText(lang) {
         document.getElementById('schedule-title').textContent = 'SCHEDULE';
         document.getElementById('registration-title').textContent = 'REGISTRATION';
         document.getElementById('faq-title').textContent = 'FAQ';
+        document.getElementById('acknowledgments-title').textContent = 'ACKNOWLEDGMENTS';
         
         // Update navigation
         const navLinks = document.querySelectorAll('.nav-link');
-        if (navLinks.length >= 5) {
+        if (navLinks.length >= 6) {
             navLinks[0].textContent = 'HOME';
             navLinks[1].textContent = 'OVERVIEW';
             navLinks[2].textContent = 'SCHEDULE';
             navLinks[3].textContent = 'REGISTRATION';
             navLinks[4].textContent = 'FAQ';
+            navLinks[5].textContent = 'ACKNOWLEDGMENTS';
         }
         
         // Update document title
