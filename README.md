@@ -1,7 +1,4 @@
 
-
-![Github Forks](https://img.shields.io/github/forks/Young-Teams/Young-Teams.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/Young-Teams/Young-Teams.github.io?style=flat)
 # National Domestic EDA Software Training 2025
 
 ![License](https://img.shields.io/github/license/Young-Teams/Young-Teams.github.io)
